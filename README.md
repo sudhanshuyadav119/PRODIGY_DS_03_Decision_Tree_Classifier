@@ -102,5 +102,3 @@ This project demonstrates how machine learning models like **Decision Trees** ca
 <br>
 Master’s Student in **Survey Research and Data Analytics**
 
-**Sudhanshu Yadav**
-Master’s Student in **Survey Research and Data Analytics**
